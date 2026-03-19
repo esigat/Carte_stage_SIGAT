@@ -214,7 +214,7 @@
     z-index: 1000;
     margin: 5px;
     height: 40px;
-    width: 90px;
+    width: 110px;
     border-radius: 10px;
     text-align: center;
 }
@@ -222,7 +222,7 @@
 
 #stage-etr{
     position: absolute;
-    width: 100px;
+    width: 120px;
     bottom:100px;
     left: 20px;
 }
